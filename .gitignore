@@ -1,0 +1,8 @@
+# Ignore whole data/ and models/ folders
+target/
+.settings/
+
+# Ignore files
+*.pt
+.classpath
+.project
